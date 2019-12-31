@@ -62,13 +62,13 @@ social_links = [
     {
         "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/shayliu/",
-        "icon": "fa fab-linkedin-in"
+        "icon": "fab fa-linkedin-in"
     }
 ]
 
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
-<link href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" rel="stylesheet" />
+<link href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" rel="stylesheet">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
   
 
