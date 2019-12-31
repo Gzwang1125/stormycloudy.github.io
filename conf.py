@@ -22,17 +22,12 @@ email = "xuecliu@iu.edu"
 author_homepage = "https://pages.iu.edu/~xuecliu"
 description = "Life is good."
 key_words = ['ShayLiu', 'stormycloudy', 'atmosphericscience', 'blog']
-language = 'En'
+language = 'en'
 external_links = [
-    {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
-    {
-        "name": "shay",
+     {
+        "name": "Shay Liu's research",
         "url": "https://pages.iu.edu/~xuecliu",
-        "brief": "Stormycloudy's home page"
+        "brief": "My research website on IU pages."
     }
 ]
 nav = [
