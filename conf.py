@@ -14,15 +14,15 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "Stormycloudy"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
-language = 'zh-CN'
+author = "Shay L"
+email = "xuecliu@iu.edu"
+author_homepage = "https://pages.iu.edu/~xuecliu"
+description = "Life is good."
+key_words = ['ShayLiu', 'stormycloudy', 'atmosphericscience', 'blog']
+language = 'En'
 external_links = [
     {
         "name": "Maverick",
@@ -30,24 +30,24 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "shay",
+        "url": "https://pages.iu.edu/~xuecliu",
+        "brief": "Stormycloudy's home page"
     }
 ]
 nav = [
     {
-        "name": "首页",
+        "name": "Home",
         "url": "${site_prefix}",
         "target": "_self"
     },
     {
-        "name": "归档",
+        "name": "Archived",
         "url": "${site_prefix}archives/",
         "target": "_self"
     },
     {
-        "name": "关于",
+        "name": "About",
         "url": "${site_prefix}about/",
         "target": "_self"
     }
@@ -56,18 +56,18 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/baroclinicat",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/stormycloudy",
         "icon": "gi gi-github"
     },
     {
-        "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shayliu/",
+        "icon": "gi gi-linkedin"
     }
 ]
 
