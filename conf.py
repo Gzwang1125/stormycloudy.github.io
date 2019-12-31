@@ -67,7 +67,7 @@ social_links = [
     {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/shayliu/",
-        "icon": "gi gi-linkedin"
+        "icon": "gi gi-linkedin-in"
     }
 ]
 
