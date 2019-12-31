@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -67,7 +67,7 @@ social_links = [
     {
         "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/shayliu/",
-        "icon": "fab fa-linkedin-in"
+        "icon": "fa fa-linkedin"
     }
 ]
 
