@@ -10,7 +10,7 @@ categories:
 tags: 
   - Blog
   - GitHub
-excerpt: Hello World!
+excerpt: Thanks to [熊猫小A](https://blog.imalan.cn/)
 ---
 
 This is my first post, managed, built, and published by GitHub Actions. 
