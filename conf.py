@@ -50,17 +50,17 @@ nav = [
 
 social_links = [
     {
-        "name": "Twitter",
+        "name": " Twitter",
         "url": "https://twitter.com/baroclinicat",
-        "icon": "gi gi-twitter"
+        "icon": "fab fa-twitter"
     },
     {
-        "name": "GitHub",
+        "name": " GitHub",
         "url": "https://github.com/stormycloudy",
-        "icon": "gi gi-github"
+        "icon": "fab fa-github"
     },
     {
-        "name": "LinkedIn",
+        "name": " LinkedIn",
         "url": "https://www.linkedin.com/in/shayliu/",
         "icon": "fab fa-linkedin-in"
     }
