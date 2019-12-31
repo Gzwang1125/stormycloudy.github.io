@@ -1,22 +1,17 @@
 ---
 layout: page
-title: 关于
+title: About
 slug: about
-date: 2017/06/28 17:26:00
+date: 2019/12/31 14:00:00
 status: publish
-author: AlanDecode
+author: stormycloudy
 categories: 
-  - Maverick
-  - Dev
+  - Blog
+  - Personal
 tags: 
-  - theme
+  - blog
 ---
 
-这里是我的个人博客，通过 GitHub 管理与构建。
+I am a PhD student in atmospheric science. This is my personal blog. My research site can be found [here](http://pages.iu.edu/~xuecliu).
 
-
-## Contact
-
-Email: hi#imalan.cn (replace # with @)
-
-Telegram：[AlanDecode](https://t.me/alandecode)
+My profile pic is my cat, Stormy.
