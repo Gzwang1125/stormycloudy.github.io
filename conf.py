@@ -68,7 +68,7 @@ social_links = [
 
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
-<link href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" rel="stylesheet">
+<link href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" rel="stylesheet" />
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
   
 
