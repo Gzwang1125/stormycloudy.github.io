@@ -2,7 +2,7 @@
 layout: post
 title: Happy New Year 2020
 slug: first_post_in_2020
-date: 2020-1-21 17:56
+date: 2020-1-2 17:56
 status: publish
 author: <Shay L>
 categories: 
