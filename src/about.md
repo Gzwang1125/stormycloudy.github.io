@@ -14,4 +14,3 @@ tags:
 
 I am a PhD student in atmospheric science. This is my personal blog. My research site can be found [here](http://pages.iu.edu/~xuecliu).
 
-My profile pic is my cat, Stormy.
