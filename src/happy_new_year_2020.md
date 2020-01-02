@@ -30,7 +30,7 @@ I should probably also revisit the book *How to Write a Lot*.
 I felt i've done much better in the previous year. 
 Thanks to the important persons in my life.
 
-3. _Be happy_. In every aspect.
+3. **Be happy**. In every aspect.
 
 And happy new year to anyone who happens to be reading this post. 
 And if it's not within the new year range when you are reading this, have a great day, stranger. 
