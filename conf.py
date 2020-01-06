@@ -10,7 +10,7 @@ index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "stormycloudy/stormycloudy.github.io@gh-pages"
+    "repo": "stormycloudy/stormycloudy.github.io@master"
 }
 
 # 站点设置
