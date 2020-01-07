@@ -26,7 +26,7 @@ language = 'en'
 external_links = [
      {
         "name": "Shay Liu's research",
-        "url": "https://pages.iu.edu/~xuecliu",
+        "url": "http://pages.iu.edu/~xuecliu",
         "brief": "My research website on IU pages."
     }
 ]
