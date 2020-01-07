@@ -15,7 +15,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "Stormycloudy"
-site_logo = "${static_prefix}logo.png"
+site_logo = "${static_prefix}./static/logo.png"
 site_build_date = "2019-12-31T15:10-05:00"
 author = "Shay L"
 email = "xuecliu@iu.edu"
